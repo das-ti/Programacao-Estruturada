@@ -1,4 +1,4 @@
-# ATIVIDADE PRÁTICA 1 - PROGRAMAÇÃO ESTRUTURADA
+# Atividade Prática 1 - PROGRAMAÇÃO ESTRUTURADA
 
 ## Instruções
 Crie um programa que:
